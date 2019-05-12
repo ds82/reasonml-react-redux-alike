@@ -1,0 +1,3 @@
+type tAction =
+  | Increment
+  | Decrement;
